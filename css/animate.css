@@ -1,0 +1,23 @@
+.rect{
+    background:#167fe2;
+    height:100px;
+    width:100px;
+    position:absolute; /* 포지션에 변동이 필요 할 때  */
+    top:230px;
+}
+
+.time{
+    background:#6cd67a;
+    height:100px;
+    width:100px;
+    position:absolute;
+    top:660px;
+}
+
+.typo{
+    background:yellow;
+    width:200px;
+    height:100px;
+    position:absolute;
+    top:900px;
+}
